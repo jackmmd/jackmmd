@@ -48,7 +48,7 @@ Echa un vistazo a mi blog: [https://jackmmd.github.io](https://jackmmd.github.io
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
   </picture>
  </a> <!-- .discord -->
- <a href="https://x.com/DuberlyMon13506" target="_blank" rel="noreferrer">
+ <a href="https://x.com/jackmmdx" target="_blank" rel="noreferrer">
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
