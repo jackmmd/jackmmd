@@ -32,29 +32,37 @@ Echa un vistazo a mi blog: [https://jackmmd.github.io](https://jackmmd.github.io
 ### 🌐 Redes:
 
 <div align="center">
-
-<p align="left">
+<!-- .linkedin -->
  <a href="https://www.linkedin.com/in/duberly-mondragon" target="_blank" rel="noreferrer">
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </picture>
- </a> <!-- .linkedin -->
+ </a>
+ <!-- .discord -->
  <a href="https://discord.com/users/duberly" target="_blank" rel="noreferrer">
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
   </picture>
- </a> <!-- .discord -->
+ </a>
+ <!-- .x -->
  <a href="https://x.com/jackmmdx" target="_blank" rel="noreferrer">
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
   </picture>
- </a> <!-- .x -->
-</p>
+   <!-- .Instagram -->
+    <a href="http://www.instagram.com/jackmmdx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a>
+  </picture>
+ </a> 
+    <!-- Tik tok -->
+    <a href="https://www.tiktok.com/@jackmmd" target="_blank" rel="noreferrer"> 
+    <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdnlogo.com/logos/t/69/tiktok-icon.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://cdnlogo.com/logos/t/69/tiktok-icon.svg" width="32" height="32" /> </picture> </a>
+  </picture>
+ </a> 
 
 </div>
