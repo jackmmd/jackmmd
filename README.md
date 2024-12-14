@@ -16,7 +16,7 @@
 Echa un vistazo a mis proyectos: [https://duberly.vercel.app](https://duberly.vercel.app)  
 
 Echa un vistazo a mi blog: [https://jackmmd.github.io](https://jackmmd.github.io/apache-docker-example/)
-<div align="center">
+<div align="left">
 
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
 ![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
