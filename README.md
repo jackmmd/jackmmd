@@ -1,6 +1,6 @@
 ## ¡Hola! 👋 Soy Duberly, pero puedes llamarme Du
 
-🚀 **Más de 2 años de experiencia** en el desarrollo de aplicaciones web únicas y escalables.  
+🚀 **Más de 3 años de experiencia** en el desarrollo de aplicaciones web únicas y escalables.  
 💻 Especializado en **desarrollo full stack**, utilizando tecnologías como:
 
 - HTML, CSS, JavaScript, React
